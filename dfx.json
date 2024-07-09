@@ -9,7 +9,7 @@
         "custom_greeting_backend"
       ],
       "frontend": {
-        "entrypoint": "src/custom_greeting_frontend/src/index.html"
+        "entrypoint": "src/custom_greeting_frontend/src/index"
       },
       "source": [
         "src/custom_greeting_frontend/assets",
